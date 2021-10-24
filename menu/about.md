@@ -4,13 +4,13 @@ title: About Me
 permalink: /about
 ---
 
-I'm an HCI researcher, Master candidate at hci+d lab., Seoul National University.
+I am currently a Master's student at hci+d lab in Seoul National University. 
 
 
-I'm interested in Service Planning, UX analysis, Data and willing to work in HCI area.
+I am interested in service planning, UX analysis, HCI related fields. 
 
 
-I'm personally interested in Books, Novel, Traveling, Writing and lots of social community and talk with strangers. I'm open to new experiences.
+My hobbies are reading, writing, traveling and meeting new people. Check out my reading blog if you are interested!
 
 
 
