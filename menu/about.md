@@ -40,14 +40,14 @@ My hobbies are reading, writing, traveling and meeting new people. Check out my 
   - Role: create use scenarios, chunk down chatbot dialogues into functional modules, design dialogue flow, chatbot prototype QA, user tests with chatbot prototype and reflect user feedback
 
 
-####Education
+#### Education
 
 - Master's student in Cognitive Sciences, Seoul National University *2019.03 ~ 2022.02(Expected)*
 - Bachelor's degree in Psychology, Ajou University *2014.03 ~ 2019.02*
     - Minor in Korean language and literature
 - Exchange students in Justus-Liebig-Universität Gießen, Deutschland (2016.08 ~ 2017.02)
 
-####Various Activities
+#### Various Activities
 
 - Volunteer work in Green Plugged Seoul 2016, and 2017 *2016. 05 & 2018. 05 *
 - World Culture Exploring in North Europe *2016*
