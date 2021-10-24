@@ -37,7 +37,7 @@ My hobbies are reading, writing, traveling and meeting new people. Check out my 
 
 - Designing a chatbot for providing professional support to sexual crime victims
   - hci+d lab funded project by Ministry of Science and ICT & National Police Agency(Korea)
-  - Role: create use scenarios, chunk down chatbot dialogues into functional modules, design dialogue flow, chatbot prototype QA, user tests with chatbot prototype and reflect user feedback
+  - Role: create use scenarios, chunk down chatbot dialogues into functional modules, design dialogue flow, chatbot prototype QA, user tests with chatbot prototype and reflect user feedback, writing final report
 
 
 ### Education
@@ -49,6 +49,7 @@ My hobbies are reading, writing, traveling and meeting new people. Check out my 
 
 ### Various Activities
 
+- Showing and explaining chatbot prototype at Korea world police expo 2019 <span style="color:gray">*2019. 10*</span>
 - Volunteer work in Green Plugged Seoul 2016, and 2018 <span style="color:gray">*2016. 05 & 2018. 05*</span>
-- World Culture Exploring in North Europe <span style="color:gray">*2016*</span>
+- World Culture Exploring in Northern Europe <span style="color:gray">*2016*</span>
 
