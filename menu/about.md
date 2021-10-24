@@ -43,12 +43,12 @@ My hobbies are reading, writing, traveling and meeting new people. Check out my 
 #### Education
 
 - Master's student in Cognitive Sciences, Seoul National University <span style="color:gray">*2019.03 ~ 2022.02(Expected)*</span>
-- Bachelor's degree in Psychology, Ajou University <span style="color:gray"*2014.03 ~ 2019.02*</span>
+- Bachelor's degree in Psychology, Ajou University <span style="color:gray">*2014.03 ~ 2019.02*</span>
     - Minor in Korean language and literature
 - Exchange students in Justus-Liebig-Universität Gießen, Deutschland <span style="color:gray">*2016.08 ~ 2017.02*</span>
 
 #### Various Activities
 
-- Volunteer work in Green Plugged Seoul 2016, and 2018 *2016. 05 & 2018. 05*
-- World Culture Exploring in North Europe *2016*
+- Volunteer work in Green Plugged Seoul 2016, and 2018 <span style="color:gray">*2016. 05 & 2018. 05*</span>
+- World Culture Exploring in North Europe <span style="color:gray">*2016*</span>
 
