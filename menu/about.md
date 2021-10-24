@@ -5,8 +5,12 @@ permalink: /about
 ---
 
 I'm an HCI researcher, Master candidate at hci+d lab., Seoul National University.
-I'm interested in service planning, UX analysis and willing to work in HCI area.
-I'm personally interested in Book, Novel, Travel, and lots of social community and talk with strangers. I'm open to new experiences.
+
+
+I'm interested in Service Planning, UX analysis, Data and willing to work in HCI area.
+
+
+I'm personally interested in Books, Novel, Traveling, Writing and lots of social community and talk with strangers. I'm open to new experiences.
 
 
 
@@ -34,4 +38,17 @@ I'm personally interested in Book, Novel, Travel, and lots of social community a
 - Designing a chatbot for providing professional support to sexual crime victims
   - hci+d lab funded project by Ministry of Science and ICT & National Police Agency(Korea)
   - Role: create use scenarios, chunk down chatbot dialogues into functional modules, design dialogue flow, chatbot prototype QA, user tests with chatbot prototype and reflect user feedback
+
+
+####Education
+
+- Master's student in Cognitive Sciences, Seoul National University *2019.03 ~ 2022.02(Expected)*
+- Bachelor's degree in Psychology, Ajou University *2014.03 ~ 2019.02*
+    - Minor in Korean language and literature
+- Exchange students in Justus-Liebig-Universität Gießen, Deutschland (2016.08 ~ 2017.02)
+
+####Various Activities
+
+- Volunteer work in Green Plugged Seoul 2016, and 2017 *2016. 05 & 2018. 05 *
+- World Culture Exploring in North Europe *2016*
 
