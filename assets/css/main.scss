@@ -33,9 +33,10 @@ $rss-color:            #ff6600;
 @import "-sections-dir";
 
 
-@font-face {
-    font-family: 'RIDIBatang';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/RIDIBatang.woff') format('woff');
+@@font-face {
+    font-family: 'Eulyoo1945-Regular';
+    src: url('/assets/fonts/Eulyoo1945-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
+
