@@ -4,13 +4,6 @@ title: About Me
 permalink: /about
 ---
 
----
-layout: post
-title: "About Me"
-author: "Sori Joo"
-categories: journal
-tags: [documentation,sample]
----
 
 
 I am currently a Master's student at hci+d lab in Seoul National University. 
