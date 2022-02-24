@@ -4,10 +4,19 @@ title: About Me
 permalink: /about
 ---
 
+---
+layout: post
+title: "About Me"
+author: "Sori Joo"
+categories: journal
+tags: [documentation,sample]
+---
+
+
 I am currently a Master's student at hci+d lab in Seoul National University. 
 
 
-I am interested in service planning, UX analysis, HCI related fields. 
+I am interested in service planning, UX analysis, HCI related fields. <span style="color:gray">*But, open to every other things.*</span> 
 
 
 My hobbies are reading, writing, traveling and meeting new people. Check out my reading blog if you are interested!
@@ -26,7 +35,7 @@ My hobbies are reading, writing, traveling and meeting new people. Check out my 
 
 - The Effect of Information Exposure and Self-awareness on Group Identification in Video based Communication
 
-  - Abstract :  Recently, the demand for video-based communication has surged due to the Coronavirus pandemic (COVID -19). However, video-based communication has not been researched on as intensively as text-based communication despite how differently it can affect the group member and communication itself. Because of that, we apply the SIDE model, a model that has been mainly studied in the existing text-based communication, to video-based communication. Using the SIDE model, a model that aims to explain the effect of limited social cue that arises from Computer Mediated Communication (CMC) on the group identification, this study investigates three research questions: 1) Is there a significant difference in the individual group identification based on the target of information exposure? 2) Is there a  significant difference in the individual self-awareness based on the target of information exposure? and 3) Is there a significant difference in individual group identification based on individual self-awareness? Since most of video communication system are able to control the target of information exposure, we measured group identification by running a 2X2 mixed experimental design combining the lack/exposure of individual's information toward oneself and others. In addition, we measured self-awareness through the same experimental design using on the ability to see the images of oneself and others during video-based communication. From the result of the study, we concluded that there was no direct statistically significant difference in group identification based on the target of information exposure, but there was an interaction effect between self-awareness of personal appearance and the target of information exposure. We also concluded that individuals with high self awareness of personal appearance have a higher level of group identification based on group similarity. This study lays the foundation on studying video-based communication by identifying factors of video-based communication and exploring their effects to see how these factors can be used to make video based communication more effective.
+   #####   - Abstract :  Recently, the demand for video-based communication has surged due to the Coronavirus pandemic (COVID -19). However, video-based communication has not been researched on as intensively as text-based communication despite how differently it can affect the group member and communication itself. Because of that, we apply the SIDE model, a model that has been mainly studied in the existing text-based communication, to video-based communication. Using the SIDE model, a model that aims to explain the effect of limited social cue that arises from Computer Mediated Communication (CMC) on the group identification, this study investigates three research questions: 1) Is there a significant difference in the individual group identification based on the target of information exposure? 2) Is there a  significant difference in the individual self-awareness based on the target of information exposure? and 3) Is there a significant difference in individual group identification based on individual self-awareness? Since most of video communication system are able to control the target of information exposure, we measured group identification by running a 2X2 mixed experimental design combining the lack/exposure of individual's information toward oneself and others. In addition, we measured self-awareness through the same experimental design using on the ability to see the images of oneself and others during video-based communication. From the result of the study, we concluded that there was no direct statistically significant difference in group identification based on the target of information exposure, but there was an interaction effect between self-awareness of personal appearance and the target of information exposure. We also concluded that individuals with high self awareness of personal appearance have a higher level of group identification based on group similarity. This study lays the foundation on studying video-based communication by identifying factors of video-based communication and exploring their effects to see how these factors can be used to make video based communication more effective.
 
 
 
@@ -55,4 +64,6 @@ My hobbies are reading, writing, traveling and meeting new people. Check out my 
 - Showing and explaining chatbot prototype at Korea world police expo 2019 <span style="color:gray">*2019. 10*</span>
 - Volunteer work in Green Plugged Seoul 2016, and 2018 <span style="color:gray">*2016. 05 & 2018. 05*</span>
 - World Culture Exploring in Northern Europe <span style="color:gray">*2016*</span>
+
+
 
