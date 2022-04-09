@@ -34,6 +34,7 @@ My hobbies are reading, writing, traveling and meeting new people. Check out my 
 
 ### Projects & Research
 
+
 - Planning Kyung-bok University's Dashboard Prototype
   - hci+d lab funded project by Kyungbok University(Korea)
   - Role: planning dashboard elements, extract expected main factors(of dashboard), writing report
