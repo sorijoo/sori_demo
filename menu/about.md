@@ -9,7 +9,7 @@ permalink: /about
 I am currently a Master's student at hci+d lab in Seoul National University. 
 
 
-I am interested in service planning, UX analysis, HCI related fields. <span style="color:gray">*But, open to every other things.*</span> 
+I am interested in service planning, UX analysis, Data Analysis, HCI related fields. <span style="color:gray">*But, open to every other things.*</span> 
 
 
 My hobbies are reading, writing, traveling and meeting new people. Check out my reading blog if you are interested!
