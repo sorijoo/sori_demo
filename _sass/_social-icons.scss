@@ -66,3 +66,8 @@
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);
 }
+
+.fa-display-code {
+  padding: 5px;
+  @include social-media-icon($display-code-color, $icon-transition-time);
+}
