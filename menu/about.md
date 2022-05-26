@@ -54,7 +54,7 @@ My hobbies are reading, writing, traveling and meeting new people. Check out my 
 
 - Showing and explaining chatbot prototype at Korea world police expo 2019 <span style="color:gray">*2019. 10*</span>
 - Volunteer work in Green Plugged Seoul 2016, and 2018 <span style="color:gray">*2016. 05 & 2018. 05*</span>
-- World Culture Exploring in Northern Europe <span style="color:gray">*2016*</span>
+- World Culture Exploring in Northern Europe <span style="color:gray">*2016*</span> 
 
 
 
