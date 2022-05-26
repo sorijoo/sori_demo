@@ -5,7 +5,9 @@ permalink: /about
 ---
 
 
-I am interested in service planning, UX analysis, Data Analysis, HCI related fields. <span style="color:gray">*But, open to every other things.*</span> 
+I am interested in service planning, UX analysis, Data Analysis, HCI related fields. <span style="color:gray">*But, open to every other things.*</span>
+
+Now, I'm studying Data Analysis with python & sql. Check out my mini-projects and TIL in [Velog](https://velog.io/@sorij95)!
 
 
 My hobbies are reading, writing, traveling and meeting new people. Check out my reading blog if you are interested!
